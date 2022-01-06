@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.edf890ee.css",
-    "main.js": "/react-deploy/static/js/main.f193cb89.js",
-    "static/css/210.321bb174.chunk.css": "/react-deploy/static/css/210.321bb174.chunk.css",
-    "static/js/210.8820420a.chunk.js": "/react-deploy/static/js/210.8820420a.chunk.js",
-    "index.html": "/react-deploy/index.html",
-    "main.edf890ee.css.map": "/react-deploy/static/css/main.edf890ee.css.map",
-    "main.f193cb89.js.map": "/react-deploy/static/js/main.f193cb89.js.map",
-    "210.321bb174.chunk.css.map": "/react-deploy/static/css/210.321bb174.chunk.css.map",
-    "210.8820420a.chunk.js.map": "/react-deploy/static/js/210.8820420a.chunk.js.map"
+    "main.css": "/React-Sample/static/css/main.edf890ee.css",
+    "main.js": "/React-Sample/static/js/main.d6febbd7.js",
+    "static/css/210.321bb174.chunk.css": "/React-Sample/static/css/210.321bb174.chunk.css",
+    "static/js/210.8820420a.chunk.js": "/React-Sample/static/js/210.8820420a.chunk.js",
+    "index.html": "/React-Sample/index.html",
+    "main.edf890ee.css.map": "/React-Sample/static/css/main.edf890ee.css.map",
+    "main.d6febbd7.js.map": "/React-Sample/static/js/main.d6febbd7.js.map",
+    "210.321bb174.chunk.css.map": "/React-Sample/static/css/210.321bb174.chunk.css.map",
+    "210.8820420a.chunk.js.map": "/React-Sample/static/js/210.8820420a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edf890ee.css",
-    "static/js/main.f193cb89.js"
+    "static/js/main.d6febbd7.js"
   ]
 }
