@@ -6,17 +6,17 @@ ReactJS - ReactLazy - Redux - LocalSearch - TailwindCSS
 
 ## Screenshots
 
-List:
+### List:
 
 ![](screenshots/list.PNG)
 
 
-ListScrolled:
+### ListScrolled:
 
 ![](screenshots/listScrolled.PNG)
 
 
-Search:
+### Search:
 
 ![](screenshots/search.PNG)
 
